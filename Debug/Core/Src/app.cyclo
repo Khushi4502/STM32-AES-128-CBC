@@ -1,0 +1,2 @@
+../Core/Src/app.c:12:6:uart_print	1
+../Core/Src/app.c:69:6:aes_self_test	4
